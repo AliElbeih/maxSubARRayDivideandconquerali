@@ -1,0 +1,17 @@
+website explaining the problem 
+https://www.geeksforgeeks.org/maximum-subarray-sum-using-divide-and-conquer-algorithm/
+
+youtube video explaining the problem 
+best explaination *https://www.youtube.com/watch?v=ohHWQf1HDfU*
+https://www.youtube.com/watch?v=yBCzO0FpsVc
+https://www.youtube.com/watch?v=MTbIlJHT4Vs
+inspiration to compare same problem using other methods 
+https://www.youtube.com/watch?v=d6a3HKJPWGU
+
+stackoverflow
+https://stackoverflow.com/questions/14638561/maximum-subarray-divide-and-conquer
+
+editing tools:
+*snipping tool
+*Mircrosoft Clipchamp
+*goodnotes
